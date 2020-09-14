@@ -11,7 +11,6 @@ import com.msp.jio.entity.Jio;
 
 /**
  * This is a model assembler class and is user to make our work easy
- * @author apekshaswaraj
  *
  */
 @Component
