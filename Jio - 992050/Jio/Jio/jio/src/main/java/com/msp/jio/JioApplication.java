@@ -5,9 +5,6 @@
  * instance and registers a CommandLinePropertySource that exposes cmd line 
  * arguments as Spring properties and loads all the singleton beans and triggers
  * cmd line beans. 
- * @author apekshaswaraj
- * @version 1.0
- * @since 9th September 2020
  */
 package com.msp.jio;
 
