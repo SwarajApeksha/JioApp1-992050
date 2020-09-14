@@ -4,7 +4,7 @@
  * and makes changes to the database. The class calls 3 methods, a) Adds new
  * user, b) Makes recharge to existing user, c) displays balance of existing 
  * user
- * @author ishaankapoor
+ * @author apekshaswaraj
  * @version 1.0
  * @since 5th August 2020
  */
