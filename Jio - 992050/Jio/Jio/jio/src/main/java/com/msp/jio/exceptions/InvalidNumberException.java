@@ -5,7 +5,6 @@ import org.springframework.http.HttpStatus;
 
 /**
  * <h1>Invalid Number Exception Class</h1>
- * @author apekshaswaraj
  *
  */
 @ResponseStatus(value=HttpStatus.BAD_REQUEST, reason="Invalid Token") 
