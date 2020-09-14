@@ -2,9 +2,6 @@
  * <h1>Entity Class</h1>
  * This class creates the User class that has all the details of the User for
  * the .jar file to talk to.
- * @author apekshaswaraj
- * @version 1.0
- * @since 9th September 2020
  */
 package com.msp.jio.entity;
 
@@ -15,10 +12,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 
-/**
- * @author apekshaswaraj
- *
- */
+
 @Entity
 public class Jio {
 	
